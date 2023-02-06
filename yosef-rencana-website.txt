@@ -11,3 +11,4 @@ Rencana website yosef
 - Membuat Website Kompleks
     - Build Stratup
 - Website Python
+- Belajar ReactJs
