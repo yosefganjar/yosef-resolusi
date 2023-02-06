@@ -2,9 +2,12 @@ Rencana website yosef
 - website Blog/Artikel
     - membuat artikel simple
     - membuat artikel/blog rumit
+        - Pembuatan Website dengan BS
 - Website Personal
+    - Penerapan PHP pada pembentukan Website
 - Website Animasi
 - Website Music and Video
 - Membuat website pemasaran
 - Membuat Website Kompleks
     - Build Stratup
+- Website Python
