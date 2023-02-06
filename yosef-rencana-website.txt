@@ -7,3 +7,4 @@ Rencana website yosef
 - Website Music and Video
 - Membuat website pemasaran
 - Membuat Website Kompleks
+    - Build Stratup
