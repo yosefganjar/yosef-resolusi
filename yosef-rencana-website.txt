@@ -2,9 +2,11 @@ Rencana website yosef
 - website Blog/Artikel
     - membuat artikel simple
     - membuat artikel/blog rumit
+        - menggunakan framework Djago
+        - ReactJs
 - Website Personal
-- Website Animasi
 - Website Music and Video
 - Membuat website pemasaran
 - Membuat Website Kompleks
     - Build Stratup
+- Membuat Laravel
